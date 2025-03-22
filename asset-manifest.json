@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alexisbader/static/css/main.e6c13ad2.css",
+    "main.js": "/alexisbader/static/js/main.d9e7d9a4.js",
+    "static/js/453.aac68abc.chunk.js": "/alexisbader/static/js/453.aac68abc.chunk.js",
+    "index.html": "/alexisbader/index.html",
+    "main.e6c13ad2.css.map": "/alexisbader/static/css/main.e6c13ad2.css.map",
+    "main.d9e7d9a4.js.map": "/alexisbader/static/js/main.d9e7d9a4.js.map",
+    "453.aac68abc.chunk.js.map": "/alexisbader/static/js/453.aac68abc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d9e7d9a4.js"
+  ]
+}
